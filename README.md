@@ -22,7 +22,7 @@ This package was built for **Module 6 of CIT 411 (Applied Generative AI)** at At
 
 ```bash
 # Clone and install in development mode
-git clone https://github.com/iamwaqarjaved/cit411_utils.git
+git clone https://github.com/iamwaqarjaved/cit411-utils.git
 cd cit411_utils
 pip install -e ".[dev]"
 ```
@@ -320,4 +320,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-**Waqar Javed** · [@iamwaqarjaved](https://github.com/iamwaqarjaved) · CIT 411, Atlantis University
+**Waqar Javed** · [@iamwaqarjaved](https://github.com/iamwaqarjaved)
